@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DhivatarGenerator", "DhivatarGenerator\DhivatarGenerator.csproj", "{F38F0D7B-3FB5-4B0E-BE76-C5C0DFCEECA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DhivatarGenerator.Tests", "DhivatarGenerator.Tests\DhivatarGenerator.Tests.csproj", "{7A6BF3AA-95C4-49B6-9B0F-D539DFC5971C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38F0D7B-3FB5-4B0E-BE76-C5C0DFCEECA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38F0D7B-3FB5-4B0E-BE76-C5C0DFCEECA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38F0D7B-3FB5-4B0E-BE76-C5C0DFCEECA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38F0D7B-3FB5-4B0E-BE76-C5C0DFCEECA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6BF3AA-95C4-49B6-9B0F-D539DFC5971C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6BF3AA-95C4-49B6-9B0F-D539DFC5971C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6BF3AA-95C4-49B6-9B0F-D539DFC5971C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6BF3AA-95C4-49B6-9B0F-D539DFC5971C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7436C8E5-4C0F-4F26-A89E-CD9D3AE51A31}
+	EndGlobalSection
+EndGlobal
